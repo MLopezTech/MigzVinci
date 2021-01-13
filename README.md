@@ -7,4 +7,4 @@
 - 💬 Ask me about The importance of mental and physical health and how it relates to Programming 
 - 📫 How to reach me: Malopez1489@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I begin every morning with quick meditation.
+- ⚡ Fun fact: I begin every morning with a quick meditation.
