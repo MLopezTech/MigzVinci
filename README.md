@@ -11,4 +11,4 @@
    * Malopez1489@gmail.com
    * linkdin: https://www.linkedin.com/in/miguel-lopez-a605b82a/
    * twitter: https://twitter.com/chino6989
- * Portfolio: https://hopeful-bohr-76c6c0.netlify.app/
+   * Portfolio: https://hopeful-bohr-76c6c0.netlify.app/
