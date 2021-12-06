@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Freelance Software Developer
-- 🌱 I’m currently master MERN stack
+- 🌱 I’m currently mastering MERN stack
 - 👯 I’m looking to collaborate on Server side projects
 - 🤔 I’m looking for help with Javascript frameworks
 - 💬 Ask me about The importance of mental and physical health and how it relates to Programming 
